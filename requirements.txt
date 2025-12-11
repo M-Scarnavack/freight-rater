@@ -6,3 +6,4 @@ scikit-learn
 python-dotenv
 folium
 streamlit-folium
+polyline
