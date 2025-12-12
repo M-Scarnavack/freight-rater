@@ -1,3 +1,8 @@
+# 53' Dry Van Freight Rate Predictor
+
+[![Streamlit App](https://img.shields.io/badge/Launch-App-brightgreen?logo=streamlit)](https://freight-rater-53.streamlit.app/)
+
+
 📦 Adding Your Own Internal Freight Data for More Accurate Predictions
 
 This project ships with a synthetic dataset to demonstrate the end-to-end machine-learning workflow.
